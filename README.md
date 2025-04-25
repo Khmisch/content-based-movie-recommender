@@ -14,7 +14,7 @@ This project implements a content-based movie recommender system using a neural 
 
 **📂 Files**
 
-- Content-basedRecSys.ipynb — Main notebook containing data loading, preprocessing, model training, and predictions.
+- Content_basedRecSys.ipynb — Main notebook containing data loading, preprocessing, model training, and predictions.
 
 - resysNNutils.py — Utility functions for loading data, printing predictions, and handling feature matrices.
 
